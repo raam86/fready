@@ -1,4 +1,4 @@
 fready
 ======
 
-Pass an array of function to $(document).ready()
+Pass an array of function to `$(document).ready()`
